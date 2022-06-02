@@ -23,7 +23,7 @@ spec:
         sidecar.istio.io/inject: "true"
     spec:
       containers:
-      - image: registry.redhat.io/rhel8/postgresql-96
+      - image: registry.redhat.io/rhel8/postgresql-96@sha256:314747a4a64ac16c33ead6a34479dccf16b9a07abf440ea7eeef7cda4cd19e32
         env:
         - name: POSTGRESQL_USER
           value: jupyterhub
