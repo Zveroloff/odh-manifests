@@ -7,5 +7,5 @@ spec:
   channel: alpha
   installPlanApproval: Automatic
   name: radanalytics-spark
-  source: community-operators
+  source: okd-community-operators
   sourceNamespace: openshift-marketplace

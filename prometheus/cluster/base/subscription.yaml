@@ -7,5 +7,5 @@ spec:
   channel: beta
   installPlanApproval: Automatic
   name: prometheus
-  source: community-operators
+  source: okd-community-operators
   sourceNamespace: openshift-marketplace

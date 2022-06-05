@@ -7,5 +7,5 @@ metadata:
 spec:
   name: strimzi-kafka-operator
   channel: "strimzi-0.26.x"
-  source: community-operators
+  source: okd-community-operators
   sourceNamespace: openshift-marketplace
